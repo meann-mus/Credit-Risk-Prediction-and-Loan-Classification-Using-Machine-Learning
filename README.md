@@ -26,3 +26,4 @@ Hii!, I'm **Musawan Paembonan**, a **Data Enthusiast📊** who completed my fina
 
 ![Project Based Internship - Credit Risk Prediction Model](Project%20Based-Internship%20-%20Credit%20Risk%20Prediction%20Model.png)
 
+[Read More](https://www.linkedin.com/posts/musawan-paembonan-31116a355_idx-partners-data-scientistmusawan-paembonan-activity-7431442803441963008--YhP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh6hz0BduB4US_FZp6jXzNgj9aMUV91vXs)
